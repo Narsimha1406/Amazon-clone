@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border: borderbox;
+}
+.mininavbar{
+    height: 10px;
+    background-color:#5E9400;
+}
+.navbar{
+    height:60px;
+    background-color:white;
+    display:flex;
+    align-content: flex;
+   justify-content: space-evenly;
+}
+   
+.navlogo{
+    background-image: url(bb.png);
+    background-size: cover;
+    height: 50px;
+    width: 91px;
+    border:2px solid transparent;
+    color: white;
+}
+.search-icon{
+    height: 16px;
+    width: 16px;
+}
+.nav-search{
+    width: 213px;
+    height: 36px;
+}
+.location{
+    width: 130px;
+    height:20px;
+
+}
+
+.border{
+    border:2px solid transparent;
+}
